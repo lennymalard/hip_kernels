@@ -1,1 +1,3 @@
 # hip_kernels
+
+Just random HIP kernels I wrote to learn GPU programming...
