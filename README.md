@@ -274,7 +274,7 @@
     
 - **HIP**
     ```bash
-    hipDeviceQuery
+    amd-smi
     ```
     *Lists available HIP-compatible devices*
 
@@ -287,7 +287,7 @@
     
 - **HIP**
     ```bash
-    hipDeviceQuery
+    rocminfo
     ```
     *Shows detailed HIP device properties*
 
